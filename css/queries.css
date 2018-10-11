@@ -1,0 +1,27 @@
+
+@media screen and (max-width: 375px) {
+    .bio-text {
+      padding-top: 0;
+      margin-bottom: 25px;
+    }
+
+    .board-member {
+      margin-bottom: 15px;
+    }
+
+    .btn-pram {
+      font-size: 24px;
+    }
+
+    .description-text {
+      font-size: 24px;
+    }
+
+    #cyril-quote {
+      font-size: 28px;
+    }
+
+    #pram{
+      font-size: 30px;
+    }
+}
